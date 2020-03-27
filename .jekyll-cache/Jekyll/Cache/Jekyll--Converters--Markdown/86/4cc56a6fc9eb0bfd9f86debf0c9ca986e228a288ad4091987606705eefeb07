@@ -1,4 +1,4 @@
-I"��<blockquote>
+I"l}<blockquote>
   <p>This is the first article in my blog.</p>
 
   <p>The origin repository is from <a href="http://qubaiying.top">qubaiying</a>.</p>
@@ -152,27 +152,9 @@ jianshu_username:	jianshu_id
 
 <p>新加入了<strong>简书</strong>，<code class="highlighter-rouge">jianshu_id</code> 在你打开你的简书主页后的地址如：<code class="highlighter-rouge">http://www.jianshu.com/u/e71990ada2fd</code>中，后面这一串数字：<code class="highlighter-rouge">e71990ada2fd </code></p>
 
-<h4 id="评论系统">评论系统</h4>
-
-<p>博客中使用的是 <a href="https://disqus.com/">Disqus</a> 评论系统，在 <a href="https://disqus.com/">官网</a> 注册帐号后，按下面的步骤简单的配置即可：</p>
-
-<p>进入 <a href="https://disqus.com/home/settings/profile/">设置页面</a> 配置个人信息</p>
-
-<p><img src="http://upload-images.jianshu.io/upload_images/2178672-904ecb30c536c73b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="配置 Disqus 个人信息" /></p>
-
-<p>找到 <strong>Username</strong></p>
-
-<p><img src="http://upload-images.jianshu.io/upload_images/2178672-19d1b9e7d2624bfb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Disqus Account" /></p>
-
-<p>这个 <strong>Username</strong>  就是我们 <code class="highlighter-rouge">_config.yml</code> 中 <code class="highlighter-rouge">disqus_username</code></p>
-
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Disqus settings（https://disqus.com/）
 disqus_username: qiubaiying
 </code></pre></div></div>
-
-<blockquote>
-  <p>很对人反映 Disqus 评论插件加载不出来，因为 Disqus 在国内加载缓慢，所以我新集成了 Gitalk 评论插件（感谢<a href="https://github.com/FeDemo">@FeDemo</a>的推荐），喜欢折腾的朋友可以看这篇：<a href="http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/">《为博客添加 Gitalk 评论插件》</a>。 我已经在<code class="highlighter-rouge">_config.yml</code> 配置就好了，只需要填写参数可以了。</p>
-</blockquote>
 
 <h4 id="网站统计">网站统计</h4>
 
@@ -235,20 +217,9 @@ ga_domain: auto
 
 <p>创建一个文件</p>
 
-<p><img src="http://upload-images.jianshu.io/upload_images/2178672-9a47b2074362e570.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" /></p>
-
-<p>在下面写文章，和标题，还能实时预览，最后提交保存就能看到自己的新文章了。</p>
-
-<p><img src="http://upload-images.jianshu.io/upload_images/2178672-88acd9e29fa3ae8a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" /></p>
+<p>![](http://upload-images.jianshu.io/upload_images/2178672-9a47b2074362e570.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240</p>
 
 <h2 id="格式">格式</h2>
-<p>每一篇文章文件命名采用的是<code class="highlighter-rouge">2017-02-04-Hello-2017.md</code>时间+标题的形式，空格用<code class="highlighter-rouge">-</code>替换连接。</p>
-
-<p>文件的格式是 <code class="highlighter-rouge">.md</code> 的 <a href="http://sspai.com/25137/"><strong>MarkDown</strong></a> 文件。</p>
-
-<p>我们的博客文章格式采用是 <strong>MarkDown</strong>+ <strong>YAML</strong> 的方式。</p>
-
-<p><a href="http://www.ruanyifeng.com/blog/2016/07/yaml.html?f=tt"><strong>YAML</strong></a> 就是我们配置 <code class="highlighter-rouge">_config</code>文件用的语言。</p>
 
 <p><a href="http://sspai.com/25137/"><strong>MarkDown</strong></a> 是一种轻量级的「标记语言」，很简单。<a href="http://sspai.com/25137">花半个小时看一下</a>就能熟练使用了</p>
 
@@ -649,4 +620,9 @@ Configuration file: /Users/baiying/Blog/_config.yml
 <p>The process of building a blog shows my disadvantage again: which is that I am easy to be trapped on the road instead of heading to the goal. During my blog building, I was entangled with the blog theme. I have tried about this theme, and the <em>Next</em> theme. I put a lot of time in try differnent interfacre. However, the content is more important for a blog than its look. Looking back, actually I am always doing such things. When I want to learn about computational biology, I have spent a lot of time in installing Linux. I want to change this state, now.</p>
 
 <h2 id="reference">Reference</h2>
+<blockquote>
+  <ol>
+    <li>Baiyu. (2018, March 9). qiubaiying/qiubaiying.github.io. <a href="https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B">博客搭建详细教程.</a></li>
+  </ol>
+</blockquote>
 :ET
