@@ -1,0 +1,40 @@
+I"�
+<blockquote>
+  <p>This is the first article in my blog.</p>
+
+  <p>The origin repository is from <a href="http://qubaiying.top">qubaiying</a>.</p>
+
+  <p>WIthout help of my friend <a href="https://shieldjy.github.io">Jiayi</a>, I will never own a personal blog like this.</p>
+</blockquote>
+
+<h2 id="blog-build">Blog build</h2>
+<p>I forked the code from <a href="http://qiubaiying.github.io">qiubaiying’s blog</a>. And <a href="http://jekyllcn.com/">jekyll</a> is a very intersting tools to build a blog.There are many beautiful theme. Unfortunately, I am totally new about <em>html</em> and <em>markdown</em> writting. It is also interesting to use different theme based on jekyll to show a different personality.</p>
+
+<p>If you want to build your personal blog, you can use <a href="http://qiubaiying.github.io">qiubaiying’s blog</a> as the reference. And there are also some other interesting tools such as <em>Hexo</em>.</p>
+
+<h1 id="about-blog">About Blog</h1>
+
+<h3 id="new-window-to-show-myself">new window to show myself</h3>
+
+<p>There are still questions when I build my blog: <em>why do i need a blog? How long would I insist on writting the articles, and putting them on blog?</em></p>
+
+<p>Actually, I consider a blog a totally different window to show and record myself. On the one hand, talk to myself could help me clear my thought. On the other hand, it is improtant to having a series of integral things to record life in such a fragmented era. Maybe you can realize that I have this blog more about myself than use it as some kind of tool. <strong>However, Welcome to my blog, to my inner world!</strong></p>
+
+<h3 id="contents">contents</h3>
+<p>I would put serval kinds of articles on the site: <strong>learning notes</strong>, <strong>little thoughts</strong>, and <strong>life recording</strong></p>
+
+<blockquote>
+  <h1 id="more-thoughts">More thoughts</h1>
+</blockquote>
+
+<blockquote>
+  <p>The process of building a blog shows my disadvantage again: which is that I am easy to be trapped on the road instead of heading to the goal. During my blog building, I was entangled with the blog theme. I have tried about this theme, and the <em>Next</em> theme. I put a lot of time in try differnent interfacre. However, the content is more important for a blog than its look. Looking back, actually I am always doing such things. When I want to learn about computational biology, I have spent a lot of time in installing Linux. I want to change this state, now.</p>
+</blockquote>
+
+<h2 id="reference">Reference</h2>
+<blockquote>
+  <ol>
+    <li>Baiyu. (2018, March 9). qiubaiying/qiubaiying.github.io. <a href="https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B">博客搭建详细教程.</a></li>
+  </ol>
+</blockquote>
+:ET
